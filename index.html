@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="SANGAM — SMVDU Tech Community teammate LinkedIn hub." />
+  <title>SANGAM — Tech Community</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="grain"></div>
+
+  <header class="nav">
+    <a class="brand" href="#top" aria-label="Sangam home">
+      <span class="brand-mark">
+  <img src="assets/smvdu logo.jpg" alt="SMVDU Logo">
+</span>
+      <span>
+        <strong>SANGAM</strong>
+        <small>SMVDU TECH COMMUNITY</small>
+      </span>
+    </a>
+    <nav>
+      <a href="#groups">Groups</a>
+      <a href="#about">About</a>
+    </nav>
+    <button class="nav-cta" onclick="document.querySelector('#groups').scrollIntoView({behavior:'smooth'})">
+      Explore <span>↘</span>
+    </button>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-orbit orbit-one"></div>
+      <div class="hero-orbit orbit-two"></div>
+      <div class="hero-copy" data-parallax="0.10">
+        <p class="eyebrow"><span></span> WHERE TECHNOLOGY COMES TOGETHER.</p>
+        <h1>SANGAM</h1>
+        <p class="hero-sub">One community. Four groups. <em>One network.</em></p>
+        <p class="hero-text">
+          A simple space to discover the people behind our tech community and jump
+          straight to their professional profiles.
+        </p>
+        <div class="hero-actions">
+          <a class="primary-btn" href="#groups">Meet the community <span>↗</span></a>
+          <a class="text-btn" href="#about">What is Sangam?</a>
+        </div>
+      </div>
+
+      <div class="hero-art" data-parallax="0.18">
+        <div class="hero-image-wrap">
+          <img src="assets/sangam-logo.png" alt="Sangam Tech Community logo" />
+        </div>
+        <div class="stamp">SMVDU<br><span>TECH / 2026</span></div>
+      </div>
+    </section>
+
+   <section class="ticker" aria-label="Community message">
+  <div class="ticker-track">
+    <span>LEARN</span><b>✦</b>
+    <span>BUILD</span><b>✦</b>
+    <span>CONNECT</span><b>✦</b>
+    <span>CREATE</span><b>✦</b>
+    <span>COLLABORATE</span><b>✦</b>
+    <span>INNOVATE</span><b>✦</b>
+    <span>EXPLORE</span><b>✦</b>
+    <span>GROW</span><b>✦</b>
+    <span>LEAD</span><b>✦</b>
+    
+    <span>LEARN</span><b>✦</b>
+    <span>BUILD</span><b>✦</b>
+    <span>CONNECT</span><b>✦</b>
+    <span>CREATE</span><b>✦</b>
+    <span>COLLABORATE</span><b>✦</b>
+    <span>INNOVATE</span><b>✦</b>
+    <span>EXPLORE</span><b>✦</b>
+    <span>GROW</span><b>✦</b>
+    <span>LEAD</span><b>✦</b>
+  </div>
+</section>
+
+    <section class="groups-section" id="groups">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">01 / THE NETWORK</p>
+          <h2>Meet the <span>groups.</span></h2>
+        </div>
+        <p class="section-note">Choose a group to reveal its members and open their LinkedIn profiles.</p>
+      </div>
+
+      <div class="toolbar">
+        <label class="search">
+          <span>⌕</span>
+          <input id="searchInput" type="search" placeholder="Search a member or group..." autocomplete="off" />
+        </label>
+        <div class="results" id="resultCount">4 GROUPS</div>
+      </div>
+
+      <div id="groupsGrid" class="groups-grid"></div>
+    </section>
+
+    <section class="about" id="about">
+      <div class="about-number">02</div>
+      <div>
+        <p class="eyebrow">ABOUT SANGAM</p>
+        <h2>Technology gets better when <span>people connect.</span></h2>
+      </div>
+      <p class="about-copy">
+        SANGAM is the community layer for our tech ecosystem at SMVDU. This page
+        keeps teammate discovery simple: find a group, find a member, and open
+        their professional profile.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <div>
+      <strong>SANGAM</strong>
+      <span>TECH COMMUNITY · SMVDU</span>
+    </div>
+    <span>Built for connection, collaboration &amp; growth.</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
