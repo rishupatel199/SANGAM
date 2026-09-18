@@ -8,36 +8,37 @@ const groups = [
     "description": "BUILD, LEARN, GROW",
     "logo": "assets/group-1.png",
     "members": [
+        {
+        "name": "Yash Srivastava",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/yash-srivastava-46a02a28b?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      },
       {
         "name": "Sachin Tripathi",
         "role": "SANGAM / Tech Community",
         "linkedin": "https://www.linkedin.com/in/sachin-tripathi-2314a6259?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      },   {
+        "name": "Kartikey Saxena",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/kartikey-saxena-b16193290?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      },  {
+        "name": "Subham Saini",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/shubham-saini-b76741274?utm_source=share_via&utm_content=profile&utm_medium=member_android"
       },
       {
         "name": "Akshit Raj",
         "role": "SANGAM / Tech Community",
         "linkedin": "https://www.linkedin.com/in/akshit-raj-59bb34289?utm_source=share_via&utm_content=profile&utm_medium=member_android"
       },
-      {
-        "name": "Subham Saini",
-        "role": "SANGAM / Tech Community",
-        "linkedin": "https://www.linkedin.com/in/shubham-saini-b76741274?utm_source=share_via&utm_content=profile&utm_medium=member_android"
-      },
+    
       {
         "name": "Mukti Porwal",
         "role": "SANGAM / Tech Community",
         "linkedin": "https://www.linkedin.com/in/mukti-porwal-185a12323?utm_source=share_via&utm_content=profile&utm_medium=member_android"
       },
-      {
-        "name": "Kartikey Saxena",
-        "role": "SANGAM / Tech Community",
-        "linkedin": "https://www.linkedin.com/in/kartikey-saxena-b16193290?utm_source=share_via&utm_content=profile&utm_medium=member_android"
-      },
-      {
-        "name": "Yash Srivastava",
-        "role": "SANGAM / Tech Community",
-        "linkedin": "https://www.linkedin.com/in/yash-srivastava-46a02a28b?utm_source=share_via&utm_content=profile&utm_medium=member_android"
-      },
+   
+    
       {
         "name": "Naresh Kumar",
         "role": "SANGAM / Tech Community",
@@ -103,7 +104,7 @@ const groups = [
       {
         "name": "shivali",
         "role": "SANGAM / Tech Community",
-        "linkedin": "https://www.linkedin.com/in/aryavsparihar?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+        "linkedin": "www.google.com"
       },
        {
         "name": " himanshu",
@@ -157,6 +158,15 @@ const groups = [
         "name": "Devesh Singh",
         "role": "SANGAM / Tech Community",
         "linkedin": "https://www.linkedin.com/in/aryavsparihar?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      }, {
+        "name": "Anurag Singh",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/anu-env?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      },
+       {
+        "name": "Harshit Verma",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/harshit-verma-51b8b81ab?utm_source=share_via&utm_content=profile&utm_medium=member_android"
       },
     ]
   }
