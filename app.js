@@ -157,7 +157,7 @@ const groups = [
       {
         "name": "Devesh Singh",
         "role": "SANGAM / Tech Community",
-        "linkedin": "https://www.linkedin.com/in/aryavsparihar?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+        "linkedin": "https://www.linkedin.com/in/devesh-singh-361b27290/"
       }, {
         "name": "Anurag Singh",
         "role": "SANGAM / Tech Community",
