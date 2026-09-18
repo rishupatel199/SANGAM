@@ -77,7 +77,12 @@ const groups = [
         "name": "Ankita Chandravansi",
         "role": "SANGAM / Tech Community",
         "linkedin": "https://www.linkedin.com/in/ankita-chandravanshi-b18aa0363?utm_source=share_via&utm_content=profile&utm_medium=member_android"
-      }
+      },
+        {
+        "name": "Sneha Gupta",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/sneha-gupta-327b1038a?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      },
     ]
   },
   {
@@ -91,10 +96,35 @@ const groups = [
         "linkedin": "https://www.linkedin.com/in/0aimaneesh?utm_source=share_via&utm_content=profile&utm_medium=member_android"
       },
       {
-        "name": "Aryaveer Parihar",
+        "name": "Nandita",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/nandita-gupta-0b8862396?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      },
+      {
+        "name": "shivali",
         "role": "SANGAM / Tech Community",
         "linkedin": "https://www.linkedin.com/in/aryavsparihar?utm_source=share_via&utm_content=profile&utm_medium=member_android"
       },
+       {
+        "name": " himanshu",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/himanshu-soni-aa5056383?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      },{
+        "name": "kushagra",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/kushagra-pandey-b15882348/"
+      },
+      {
+        "name": "manthan",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/manthan-gupta-8bb607377?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      },
+      {
+        "name": "Armaan",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/armaan-middha-43a786262"
+      },
+       
       {
         "name": "Tejas Singh",
         "role": "SANGAM / Tech Community",
@@ -106,13 +136,29 @@ const groups = [
     "name": "NULL CYBER SECURITY",
     "description": "SECURE, DEFEND, EXPLORE",
     "logo": "assets/group-3.png",
-    "members": []
+    "members": [
+      {
+        "name": "Harsh Vardhan",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/harshvardhan-in/"
+      },{
+        "name": "Tanvi Jamwal",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/tanvijamwal-in/"
+      },
+    ]
   },
   {
     "name": "AI/ML CLUB",
     "description": "LEARN, TRAIN, INNOVATE",
     "logo": "assets/group-4.png",
-    "members": []
+    "members": [
+      {
+        "name": "Devesh Singh",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/aryavsparihar?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      },
+    ]
   }
 ];
 
