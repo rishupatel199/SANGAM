@@ -147,6 +147,15 @@ const groups = [
         "role": "SANGAM / Tech Community",
         "linkedin": "https://www.linkedin.com/in/tanvijamwal-in/"
       },
+       {
+        "name": "Abhishek Raj",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/abhishek-raj-40529b22a/"
+      }, {
+        "name": "Nikhil kumar",
+        "role": "SANGAM / Tech Community",
+        "linkedin": "https://www.linkedin.com/in/nikhilkumar-hx/"
+      },
     ]
   },
   {
